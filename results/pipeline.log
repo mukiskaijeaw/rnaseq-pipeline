@@ -1,0 +1,11 @@
+================================
+[2026-05-25 10:14:48] RNA-seq Pipeline Starting
+================================
+[2026-05-25 10:14:48] Step 1: Running FastQC...
+[2026-05-25 10:14:52] SUCCESS: FastQC
+[2026-05-25 10:14:52] Step 2: Running Trimmomatic...
+[2026-05-25 10:14:52] SUCCESS: Trimmomatic
+================================
+[2026-05-25 10:14:52] Pipeline Complete!
+[2026-05-25 10:14:52] Results saved to: /home/muk/rna_seq_project/results/
+================================

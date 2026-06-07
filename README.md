@@ -96,3 +96,15 @@ ls results/fastqc/
 **Chomphunut Unmee**  
 Bioscience & Technology Graduate | Aspiring Bioinformatics Researcher  
 [GitHub](https://github.com/mukiskaijeaw)
+
+## References
+
+### RNA-seq Preprocessing
+
+1. **FastQC**
+
+Andrews, S. (2010). *FastQC: A Quality Control Tool for High Throughput Sequence Data*. Available at: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+
+2. **Trimmomatic**
+
+Bolger, A. M., Lohse, M., & Usadel, B. (2014). *Trimmomatic: A flexible trimmer for Illumina sequence data*. Bioinformatics, 30(15), 2114–2120. https://doi.org/10.1093/bioinformatics/btu170

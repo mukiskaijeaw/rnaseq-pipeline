@@ -1,11 +1,11 @@
-# 🧬 RNA-seq Analysis Pipeline
+# RNA-seq Analysis Pipeline
 
 An automated bioinformatics pipeline for RNA-seq data processing,
 built with Bash scripting and standard bioinformatics tools.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This pipeline automates the quality control and trimming steps 
 of RNA-seq data analysis — from raw FASTQ files through to 
@@ -14,7 +14,7 @@ and extensible for different datasets.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -24,7 +24,7 @@ and extensible for different datasets.
 
 ---
 
-## 🔄 Pipeline Steps
+## Pipeline Steps
 
 ```
 Raw FASTQ → FastQC (QC) → Trimmomatic (Trim) → Clean FASTQ
@@ -35,7 +35,7 @@ Raw FASTQ → FastQC (QC) → Trimmomatic (Trim) → Clean FASTQ
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 rnaseq_pipeline/
@@ -51,7 +51,7 @@ rnaseq_pipeline/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 **1. Install dependencies (Ubuntu/WSL)**
 ```bash
@@ -82,7 +82,7 @@ ls results/fastqc/
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - Automated quality control and trimming in a single script
 - Timestamp logging for every step
@@ -91,7 +91,7 @@ ls results/fastqc/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Chomphunut Unmee**  
 Bioscience & Technology Graduate | Aspiring Bioinformatics Researcher  
